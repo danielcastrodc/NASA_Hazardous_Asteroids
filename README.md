@@ -14,3 +14,6 @@ Please note that after determining the best model via PyCaret. I later redo the 
 
 ## ***Results:***
 I recreated the best model that I identified with PyCaret by using Sci-kit learn (sklearn). The resulting recall was approximately 98.6% thereby netting a great score that minimized false negatives. This was nearly equivalent to the 99% recall that was netted in PyCaret with logistic regression.
+
+## ***Technology used:***
+Google Colab, PyCaret, Pandas, Numpy, Seaborn, Sklearn
